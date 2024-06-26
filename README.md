@@ -1,5 +1,5 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-<img src='https://github.com/MatinHedayat/MatinHedayat/blob/main/images/github%20banner%20(1).jpg?raw=true' />
+<img src='https://github.com/MatinHedayat/MatinHedayat/blob/main/images/pexels-tima-miroshnichenko-5380664.jpg?raw=true' />
 
 ## Front-End Developer
 
