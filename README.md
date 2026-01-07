@@ -1,4 +1,4 @@
-<img src="https://ekb6dgzykgb.exactdn.com/wp-content/uploads/2019/09/GettyImages-539476054.jpg?strip=all&lossy=1&ssl=1" alt="" width="100%" />
+<img src="images/banner-1.jpg" alt="" width="100%" />
 
 ### 😉 About Me :
 Front-end developer with experience in developing web applications based on React.js and Next.js, focusing on performance, maintainability, and UX. Proficient in implementing responsive and component-based UIs and currently enhancing his knowledge of TypeScript to improve code quality, safety, and scalability. Interested in continuous learning and teamwork to deliver optimized and scalable solutions.
